@@ -1,19 +1,19 @@
 const members = [
   {
     id: 1,
-    name: 'Tom cruz1',
+    name: 'Tom cruz11',
     email: 'tomc@gmail.com',
     status:'active'
   },
   {
     id: 2,
-    name: 'Zennith Don1',
+    name: 'Zennith Don11',
     email: 'zennith@gmail.com',
     status:'active'
   },
   {
     id: 3,
-    name: 'Brutly Fani1',
+    name: 'Brutly Fani11',
     email: 'brutly@gmail.com',
     status:'active'
   },
